@@ -1,0 +1,14 @@
+# Target labels
+ sqlite3-populate
+# Source files and their labels
+/home/soufianeboukhrit/Desktop/book_manager/build/linux/x64/debug/_deps/sqlite3-subbuild/CMakeFiles/sqlite3-populate
+/home/soufianeboukhrit/Desktop/book_manager/build/linux/x64/debug/_deps/sqlite3-subbuild/CMakeFiles/sqlite3-populate.rule
+/home/soufianeboukhrit/Desktop/book_manager/build/linux/x64/debug/_deps/sqlite3-subbuild/CMakeFiles/sqlite3-populate-complete.rule
+/home/soufianeboukhrit/Desktop/book_manager/build/linux/x64/debug/_deps/sqlite3-subbuild/sqlite3-populate-prefix/src/sqlite3-populate-stamp/sqlite3-populate-install.rule
+/home/soufianeboukhrit/Desktop/book_manager/build/linux/x64/debug/_deps/sqlite3-subbuild/sqlite3-populate-prefix/src/sqlite3-populate-stamp/sqlite3-populate-mkdir.rule
+/home/soufianeboukhrit/Desktop/book_manager/build/linux/x64/debug/_deps/sqlite3-subbuild/sqlite3-populate-prefix/src/sqlite3-populate-stamp/sqlite3-populate-download.rule
+/home/soufianeboukhrit/Desktop/book_manager/build/linux/x64/debug/_deps/sqlite3-subbuild/sqlite3-populate-prefix/src/sqlite3-populate-stamp/sqlite3-populate-update.rule
+/home/soufianeboukhrit/Desktop/book_manager/build/linux/x64/debug/_deps/sqlite3-subbuild/sqlite3-populate-prefix/src/sqlite3-populate-stamp/sqlite3-populate-patch.rule
+/home/soufianeboukhrit/Desktop/book_manager/build/linux/x64/debug/_deps/sqlite3-subbuild/sqlite3-populate-prefix/src/sqlite3-populate-stamp/sqlite3-populate-configure.rule
+/home/soufianeboukhrit/Desktop/book_manager/build/linux/x64/debug/_deps/sqlite3-subbuild/sqlite3-populate-prefix/src/sqlite3-populate-stamp/sqlite3-populate-build.rule
+/home/soufianeboukhrit/Desktop/book_manager/build/linux/x64/debug/_deps/sqlite3-subbuild/sqlite3-populate-prefix/src/sqlite3-populate-stamp/sqlite3-populate-test.rule

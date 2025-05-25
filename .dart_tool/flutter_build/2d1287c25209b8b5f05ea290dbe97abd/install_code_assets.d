@@ -1,0 +1,1 @@
+ /home/soufianeboukhrit/Desktop/book_manager/.dart_tool/flutter_build/2d1287c25209b8b5f05ea290dbe97abd/native_assets.json: 
