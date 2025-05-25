@@ -70,7 +70,7 @@ flutter run
 Description : Interface principale de recherche de livres.
 
 ### Résultats de recherche
-![Résultats de recherche](screenshot/Pasted%20image%20(3).png)
+![Résultats de recherche](screenshot/Pasted%20image.png)
 
 Description : Affichage des résultats de recherche avec images et informations de base.
 
